@@ -1,6 +1,10 @@
 # pokemonjs
 ポケモンの名前だけしか使えないプログラミング言語（AltJS）
 
+## 発表資料
+
+[presentation.pdf](presentation.pdf)
+
 ## 使い方
 
 ### パッケージのインストール
