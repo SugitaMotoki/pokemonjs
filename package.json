@@ -13,7 +13,8 @@
     "typecheck": "tsc --noEmit",
     "compile": "node build.js",
     "watch": "WATCH=true run-s compile",
-    "start": "node dist/main.js"
+    "start": "node dist/main.js",
+    "exec": "node output.js"
   },
   "author": "",
   "license": "ISC",
