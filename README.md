@@ -16,6 +16,7 @@ npm install
 ```bash
 npm run build
 ```
+
 ### トランスパイル
 ```bash
 npm start <inputfile>
@@ -27,3 +28,8 @@ npm start <inputfile>
   - ESTree
 - `output.js`
   - Javascript
+
+### 生成されたJavascriptの実行
+```bash
+npm run exec
+```
